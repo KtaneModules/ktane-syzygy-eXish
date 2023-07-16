@@ -287,7 +287,7 @@ public class SyzygyScript : MonoBehaviour {
                 return false;
             //Mars
             int marInd = Array.IndexOf(symbolIndices, 5);
-            if (Math.Abs(marInd - terInd) != 1 || Math.Abs(marInd - solInd) != 1)
+            if (Math.Abs(marInd - terInd) == 1 || Math.Abs(marInd - solInd) == 1)
                 return false;
             //Jupiter
             int jupInd = Array.IndexOf(symbolIndices, 6);

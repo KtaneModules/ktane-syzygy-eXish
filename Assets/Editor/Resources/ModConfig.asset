@@ -23,13 +23,13 @@ MonoBehaviour:
     PDF: https://ktane.timwi.de/PDF/Syzygy.pdf
 
 
-    Syzygy (syzygyModule) v1.0.0
+    Syzygy (syzygyModule) v1.0.1
 
     Module Idea by Deaf
 
     Implemented by eXish
 
     Twitch Plays supported'
-  version: 1.0.0
+  version: 1.0.1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 93a39de4e48a7d940b91804042eaa78d, type: 3}
